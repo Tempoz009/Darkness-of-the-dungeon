@@ -1,0 +1,9 @@
+Welcome to the Darkness of the dungeon! Here you are an elf trapped in a dungeon, trying to get free. You have to go through 3 shrouded dark levels of the dungeon to get to the treasured exit. On your way you will meet many enemies who can catch you. To get around them, you will have to move carefully and watch out for areas where enemies will notice you and begin to pursue you. Collect coins from chests created throughout the location, they will help you unlock doors and portals. Choose the result from the darkness! 
+
+Control: 
+A – Left
+W - Up  
+S - Down  
+D - Right  
+E - Collect coins from the chest / unlock the door / activate the portal  
+Escape - Open pause menu
